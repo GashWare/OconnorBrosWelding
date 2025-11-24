@@ -1100,3 +1100,11 @@ a:focus {
     transform: translateX(-700px);
   }
 }
+.ws_logo {
+    display: none !important;
+    visibility: hidden !important;
+}
+
+#wowslider-container1 a[href^="http://wowslider"] {
+    display: none !important;
+}
